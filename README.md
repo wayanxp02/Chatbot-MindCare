@@ -24,5 +24,4 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan aplikasi MindCare di komput
 Pastikan Anda telah menginstal **Python 3.7+**. Kemudian, klon repositori ini dan masuk ke direktori proyek.
 
 ```bash
-git clone [https://github.com/wayanxp02/Chatbot-MindCare.git](https://github.com/wayanxp02/Chatbot-MindCare.git)
-cd nama-repo-anda
+git clone https://github.com/wayanxp02/Chatbot-MindCare.git
